@@ -71,9 +71,22 @@ You could use Glide if you are more comfortable with it, although be careful as 
 
 ## Submission Feedback 
 
-## 1st Submission -   ✅/❌
+## 1st Submission -   Passed ✅
 ### 15th February 2024
 ```
+Hello Dear Student!
+
+Your code is very clean, clear, and professional, so great work on this!
+
+The app behavior is very good, the list of asteroids shows on the main screen very quickly when it starts. 👍
+
+The API key is very sensitive information so it is much better to hide it. I give you some suggestions on how to do it in the code review tab. 😄
+
+Awesome work displaying the asteroids in the list so nicely, but maybe next time that you need it, you could use the CardView(opens in a new tab) widget that will help you design these elements easily.
+
+You must be proud of yourself since not many students pass this project on the first try. 💪
+
+Now, you can continue with the lessons and overall, have fun while coding!
 ```
 
 
