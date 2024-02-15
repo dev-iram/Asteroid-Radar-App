@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/week_item"
+        android:title="@string/asteroid_week" />
+    <item
+        android:id="@+id/today_item"
+        android:title="@string/asteroid_today" />
+    <item
+        android:id="@+id/saved_item"
+        android:title="@string/asteroid_saved" />
+</menu>
